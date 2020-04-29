@@ -71,8 +71,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <p>Saya Bernama Nadia Cahya R.</p>
-        <p>Biasanya dipanggil Nadchan. Saya adalah seorang cosplayer sekaligus wibu dan anak dancer.</p>
+        <p>I am Hagure</p>
+        <p>Just Ordinary Boy</p>
       </div>
     </div>
   </div>
